@@ -1,16 +1,13 @@
 import React, { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, StatusBar, View, FlatList, TouchableOpacity } from 'react-native';
 import { data } from './allSpaceShip';
-
 const Item = ({ item, onPress, style }) => (
   <TouchableOpacity onPress={onPress} style={[styles.item, style]}>
     <Text style={styles.title}>{item.name}</Text>
   </TouchableOpacity>
 );
-
 const App = () => {
   const [selectedId, setSelectedId] = useState(null);
-
   const renderItem = ({item}) => {
     const backgroundColor = item.id === selectedId ? "#6e3b6e" : "#f9c2ff";
     return (
@@ -19,11 +16,8 @@ const App = () => {
         onPress={() => setSelectedId(item.id)}
         style = {{backgroundColor}}
       />
-      // <Text>{(item.name)}</Text>
-      
     )
   };
-
   return (
     <SafeAreaView style={styles.safeContainer}>
       <View style={styles.container}>
@@ -33,12 +27,10 @@ const App = () => {
             keyExtractor = {(item) => item.name}
             extraData = {selectedId}
         />
-        {/* <Text>{JSON.stringify(data.results)}</Text> */}
       </View>
     </SafeAreaView>
   );
 };
-
 const styles = StyleSheet.create({
   safeContainer: {
     flex: 1,
@@ -58,5 +50,4 @@ const styles = StyleSheet.create({
     fontSize: 32,
   },
 });
-
 export default App;
