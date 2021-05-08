@@ -1,4 +1,4 @@
-# GameAndPrograming
+# GameAndPrograming [Rédaction en cours]
 Répertoire recensant divers créations et essais
 
 
@@ -17,58 +17,29 @@ Un bot discord simple qui vous aide à gérer votre serveur en fournissant des c
 * [Licence](#license)
 
 # <a name="team-members"></a>Membres de l'équipe
-* "Scherier Rémy" [rapport_en_cours](https://github.com/ProjetCompInfo/Danae)
-* "Deletang Antoine" [rapport_en_cours](https://github.com/ProjetCompInfo/Danae)
-* "Bakhkhouch Dounia" [rapport_en_cours](https://github.com/ProjetCompInfo/Danae)
+* a
+* b
+* c
 
 ## <a name="features"></a>Caractéristiques de l'application
-
-*   👑 **Administration**: `config`, `eval`, `reload` 
-*   💼 **Animals**: `anime`, `cat`, `dog`, `fox`, `hug`, `pat` 
-*   🚓 **Moderation**: `add`, `adds`, `ban`, `kick`, `mute`, `prune`, `purge`, `remove`, `removes`, `report`, `unban`, `unmute`
-*   💰 **Economy**: `shop`, `trade`, `userbalance`
-*   💰 **RPG**: `battle`, `equip`, `exp`, `profil`, `setup`, `unequip`
-*   👻 **Jeux**: `dice`, `dices`, `roll`
-*   🖨️ **Misc**: `8ball`, `botinfo`, `help`, `ping`, `poll`, `say`, `serverinfo`, `userinfo`
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 
 ## <a name="requirements"></a>Outils requis
-
-- [Node](https://nodejs.org/en/)
-- [NPM](https://www.npmjs.com/)
-- [MongoDb](https://www.mongodb.com/2)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 
 ## <a name="getting-started"></a>Avant de commencer
 
-Tout d'abord, assurez-vous que tous les outils requis soient installés sur votre machine locale, puis suivez les étapes.
-Le bot est hébergé en ligne il n'est pas nécessaire de faire toute les installations il est possible de rejoindre le discord de developpement Server Test pour essayé ou de récupérer le lien invitationBot qui permettra de choisir un discord ou ajouté le bot
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 
-[serverTest](https://discord.gg/kNAgXbptVK)
-
-[invitationBot](https://discord.com/oauth2/authorize?client_id=790924404221280286&scope=bot&permissions=2146958463)
-### <a name="installation"></a>Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/ProjetCompInfo/Danae
-
-# Enter into the directory
-cd Danae/
-
-# Install the dependencies
-npm install
-```
 
 ### <a name="configuration"></a>Configuration
 
-Après avoir cloné le projet et installé toutes les dépendances, vous devez ajouter votre jeton d'API Discord dans le fichier config.json
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 ### <a name="starting"></a>Pour lancer l'application
 
-```bash
-node index.js
-```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 ## <a name="Rapport"></a>Rapport
-Vous pouvez retrouver les rapport de ce  projet[ici](https://github.com/ProjetCompInfo/Rapport)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 
 ## <a name="license"></a>Licence
 
