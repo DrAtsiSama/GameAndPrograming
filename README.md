@@ -18,11 +18,10 @@ Un bot discord simple qui vous aide à gérer votre serveur en fournissant des c
 * [Licence](#license)
 
 # <a name="team-members"></a>Membres de l'équipe
-* a
-* b
-* c
+* [DarekaSama](https://github.com/DarekaSama)
 
-## <a name="features"></a>Caractéristiques de l'application
+
+## <a name="features"></a>Caractéristiques du projet
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lorem egestas lacinia tempus. Sed semper dictum leo in iaculis. Ut vehicula ultricies nunc, ac pretium massa ultrices a. Vestibulum ut sapien erat. Morbi sed sem ut turpis consequat pulvinar. Nulla sed efficitur dolor. Nunc vehicula cursus lorem vel accumsan. Praesent scelerisque congue faucibus. Phasellus feugiat mi non erat maximus consectetur. 
 
 ## <a name="requirements"></a>Outils requis
